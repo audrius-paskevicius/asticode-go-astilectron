@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/asticode/go-astikit"
-	"github.com/asticode/go-astilectron"
+	"github.com/audrius-paskevicius/asticode-go-astikit"
+	astilectron "github.com/audrius-paskevicius/asticode-go-astilectron"
 )
 
 func main() {

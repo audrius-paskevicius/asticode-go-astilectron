@@ -3,7 +3,7 @@ package astilectron
 import (
 	"context"
 
-	"github.com/asticode/go-astikit"
+	"github.com/audrius-paskevicius/asticode-go-astikit"
 )
 
 // Tray event names

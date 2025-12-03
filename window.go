@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/asticode/go-astikit"
+	"github.com/audrius-paskevicius/asticode-go-astikit"
 )
 
 // Window event names

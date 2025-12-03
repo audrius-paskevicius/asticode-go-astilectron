@@ -11,7 +11,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/asticode/go-astikit"
+	"github.com/audrius-paskevicius/asticode-go-astikit"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -2,13 +2,14 @@ package astilectron
 
 import (
 	"context"
-	"github.com/asticode/go-astikit"
-	"github.com/stretchr/testify/assert"
 	"io/ioutil"
 	"net/http/httptest"
 	"os"
 	"path/filepath"
 	"testing"
+
+	"github.com/audrius-paskevicius/asticode-go-astikit"
+	"github.com/stretchr/testify/assert"
 )
 
 func testProvisionerSuccessful(t *testing.T, p Paths, osName, arch, versionAstilectron, versionElectron string) {

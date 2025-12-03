@@ -2,11 +2,12 @@ package astilectron
 
 import (
 	"fmt"
-	"github.com/asticode/go-astikit"
 	"net"
 	"os/exec"
 	"runtime"
 	"time"
+
+	"github.com/audrius-paskevicius/asticode-go-astikit"
 )
 
 // Versions
